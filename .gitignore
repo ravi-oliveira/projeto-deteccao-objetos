@@ -1,0 +1,6 @@
+venv/
+dataset-EPI/
+runs/
+__pycache__/
+*.pt
+!best.pt
